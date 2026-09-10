@@ -30,7 +30,7 @@ This project uses data analysis, visualization, statistical testing, and machine
 ## 🛠️ Technologies Used
 
 - **Python**
-- **Jupyter Notebook**
+- **Colab**
 - **Pandas**
 - **NumPy**
 - **Matplotlib**
